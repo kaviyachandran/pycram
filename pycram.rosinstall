@@ -2,11 +2,11 @@ repositories:
   iai_maps:
     type: git
     url: git@github.com:code-iai/iai_maps.git
-    version: dm_room-gazebo
+    version: master
   iai_robots:
     type: git
     url: git@github.com:code-iai/iai_robots.git
-    version: boxy-noetic
+    version: noetic
   knowrob:
     type: git
     url: git@github.com:knowrob/knowrob.git
